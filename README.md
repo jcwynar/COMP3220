@@ -1,2 +1,2 @@
 # COMP3500
-Homework files for COMP 3500 with Rodrigo Sardinas
+Homework files for COMP 3500 with Rodrigo Sardinas at Auburn University
